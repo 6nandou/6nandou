@@ -6,8 +6,4 @@
   <p align="center">
       <b>Visita mi portafolio:</b> Aquí encontrarás diversas herramientas web y proyectos.
   </p>
-  <p align="center">
-      <b>Contacto:</b> Si quieres colaborar en algún proyecto o simplemente charlar, Contactame.
-  </p>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/719422383382986783)](https://discord.com/users/719422383382986783)
 </div>
